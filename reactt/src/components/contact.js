@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div>
+    <div class="uu">
       <h2>Contact</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus,

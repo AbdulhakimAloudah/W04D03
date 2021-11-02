@@ -2,8 +2,8 @@ import React from "react";
 
 const Abut = () => {
   return (
-    <div>
-      <h2>Abut</h2>
+    <div class="uu">
+      <h2>About</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus,
         error commodi blanditiis odio odit dolor delectus sunt sed, eum, nihil
